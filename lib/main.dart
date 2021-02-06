@@ -14,7 +14,7 @@ void main() {
               style: TextStyle(color: Colors.white, fontSize: 25),
             ),
           ),
-          backgroundColor: Colors.blue.shade900,
+          backgroundColor: Colors.red.shade900,
         ),
         body: DicePage(),
       ),
