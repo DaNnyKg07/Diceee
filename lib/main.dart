@@ -11,6 +11,7 @@ void main() {
           title: Center(
             child: Text(
               'Dicee',
+              style: TextStyle(color: Colors.white, fontSize: 25),
             ),
           ),
           backgroundColor: Colors.blue.shade900,
