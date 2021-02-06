@@ -13,7 +13,7 @@ void main() {
               'Dicee',
             ),
           ),
-          backgroundColor: Colors.blue.shade900,
+          backgroundColor: Colors.red.shade900,
         ),
         body: DicePage(),
       ),
