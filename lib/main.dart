@@ -6,14 +6,14 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blue.shade600,
         appBar: AppBar(
           title: Center(
             child: Text(
               'Dicee',
             ),
           ),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.blue.shade900,
         ),
         body: DicePage(),
       ),
